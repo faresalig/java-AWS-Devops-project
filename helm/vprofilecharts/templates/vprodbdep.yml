@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: vprodb
-        image: farespro/vprofiledb:latest
+        image: farespro/vprofiledb:latest 
         ports:
         - name: vprodb-port
           containerPort: 3306
