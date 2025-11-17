@@ -1,3 +1,5 @@
+<img src=imgs/cover.png>
+
 # Prerequisites
 #####
 - JDK 11
